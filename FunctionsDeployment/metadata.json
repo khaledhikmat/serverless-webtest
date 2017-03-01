@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Provision a function app on a dynamic hosting plan with source control",
+  "description": "An ARM template from https://github.com/Azure/azure-quickstart-templates/tree/master/101-function-app-create-dynamic to set up a new functions app. I added to it a source control resource using https://github.com/Azure/azure-quickstart-templates/tree/master/201-web-app-github-deploy.",
+  "summary": "Provision a function app on a dynamic hosting plan with source control",
+  "githubUsername": "khaledhikmat",
+  "dateUpdated": "2017-02-12"
+}
